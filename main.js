@@ -12,6 +12,8 @@ const data = [
     "Jet Set Radio",
     "Advance Wars",
     "Mario Kart Super Circuit",
+    "Golden Sun",
+    "Crash Team Racing",
 
     // 1ers jeux PC
     "Pharaon",
@@ -28,6 +30,14 @@ const data = [
     "Doom",
     "Myst 3",
     "Virtua Fighter 2",
+    "Versailles 1685",
+    "Egypte",
+    "Heroes 2",
+    "Flight Simulator 98",
+    "Motocross Madness 2",
+    "Splinter Cell",
+    "Crimson Skies",
+    "Ghost Recon",
 
     // Jeux PC plus tard
     "Oblivion",
@@ -59,11 +69,12 @@ const data = [
     "Path of Exile",
 
     // Actuellement
-    "Stardew Valley",
-    "Red Dead Redemption 2",
-    "Diablo 2",
     "Minecraft",
+    "Stardew Valley",
+    "Diablo 2",
     "Elden Ring",
+    "Red Dead Redemption 2",
+    "Syberia",
 ];
 
 const container = document.getElementById('container');
