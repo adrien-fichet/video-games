@@ -38,6 +38,7 @@ const data = [
     "Splinter Cell",
     "Crimson Skies",
     "Ghost Recon",
+    "Dark Basic",
 
     // Jeux PC plus tard
     "Oblivion",
@@ -60,6 +61,7 @@ const data = [
     "Human Fall Flat",
     "Age of Empire 2",
     "Cuphead",
+    "VR Chat",
     "GTA 5", 
     "Caesar 3", 
     "Battlerite", 
