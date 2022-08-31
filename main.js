@@ -39,6 +39,8 @@ const data = [
     "Crimson Skies",
     "Ghost Recon",
     "Dark Basic",
+    "Corsairs",
+    "MDK 2",
 
     // Jeux PC plus tard
     "Oblivion",
@@ -48,6 +50,7 @@ const data = [
     "Half Life",
     "Touhou 6",
     "Touhou 10",
+    "Prototype",
 
     // Période MMORPG
     "Rappelz",
@@ -55,12 +58,15 @@ const data = [
     "Guild Wars 2",
     "Guild Wars",
 
-    // Mapado / Selam
+    // Mapado / Selam / Laeti
+    "Path of Exile",
     "Ghouls-n-ghosts",
     "Metal Slug 3",
     "Human Fall Flat",
     "Age of Empire 2",
     "Cuphead",
+    "Overcooked 2",
+    "Unrailed",
     "VR Chat",
     "GTA 5", 
     "Caesar 3", 
@@ -68,7 +74,6 @@ const data = [
     "League of Legends", 
     "Dota 2", 
     "Dark Souls Remastered",
-    "Path of Exile",
 
     // Actuellement
     "Minecraft",
