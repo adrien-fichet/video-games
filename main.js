@@ -41,6 +41,7 @@ const data = [
     "Dark Basic",
     "Corsairs",
     "MDK 2",
+    "Toy Story 2",
 
     // Jeux PC plus tard
     "Oblivion",
