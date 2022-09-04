@@ -7,6 +7,7 @@ const data = [
     "Goldeneye",
     "Super Mario 64",
     "Aladdin",
+    "Toejam and Earl",
     "Donkey Konga",
     "Metal Slug 2",
     "Jet Set Radio",
@@ -21,11 +22,12 @@ const data = [
     "Warcraft 2",
     "Rally Championship",
     "Midtown Madness 2",
-    "Morrowind",
+    "Toy Story 2",
     "Rayman 2",
     "Rayman 3",
-    "THPS 2",
     "Le Fabuleux Voyage de l'oncle Ernest",
+    "THPS 2",
+    "Morrowind",
     "Heart of darkness",
     "Doom",
     "Myst 3",
@@ -41,7 +43,7 @@ const data = [
     "Dark Basic",
     "Corsairs",
     "MDK 2",
-    "Toy Story 2",
+    "Duke Nukem 3D",
 
     // Jeux PC plus tard
     "Oblivion",
@@ -52,15 +54,19 @@ const data = [
     "Touhou 6",
     "Touhou 10",
     "Prototype",
+    "Diddy Kong Racing",
 
     // Période MMORPG
     "Rappelz",
     "Skyrim",
     "Guild Wars 2",
     "Guild Wars",
+    "Runescape",
 
     // Mapado / Selam / Laeti
     "Path of Exile",
+    "Amnesia",
+    "Dodonpachi",
     "Ghouls-n-ghosts",
     "Metal Slug 3",
     "Human Fall Flat",
