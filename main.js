@@ -72,6 +72,7 @@ const data = [
     "Human Fall Flat",
     "Age of Empire 2",
     "Cuphead",
+    "Stephen's Sausage Roll",
     "Overcooked 2",
     "Unrailed",
     "VR Chat",
@@ -89,6 +90,7 @@ const data = [
     "Elden Ring",
     "Red Dead Redemption 2",
     "Syberia",
+    "Syberia 2",
 ];
 
 const container = document.getElementById('container');
