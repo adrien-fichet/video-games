@@ -76,6 +76,7 @@ const data = [
     "Overcooked 2",
     "Unrailed",
     "VR Chat",
+    "Pikmin",
     "GTA 5", 
     "Caesar 3", 
     "Battlerite", 
