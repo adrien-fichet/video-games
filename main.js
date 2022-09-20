@@ -89,9 +89,12 @@ const data = [
     "Stardew Valley",
     "Diablo 2",
     "Elden Ring",
+    "Rush Royale",
     "Red Dead Redemption 2",
     "Syberia",
     "Syberia 2",
+    "Haunted Laia",
+    "Ghost Case",
 ];
 
 const container = document.getElementById('container');
