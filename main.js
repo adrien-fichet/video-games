@@ -95,7 +95,7 @@ const data = [
     "Syberia 2",
     "Haunted Laia",
     "Ghost Case",
-    "The Girl in the Window",
+    "Another Shadow",
 ];
 
 const container = document.getElementById('container');
