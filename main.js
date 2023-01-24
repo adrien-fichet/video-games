@@ -90,12 +90,13 @@ const data = [
     "Diablo 2",
     "Elden Ring",
     "Rush Royale",
-    "Red Dead Redemption 2",
     "Syberia",
     "Syberia 2",
     "Haunted Laia",
     "Ghost Case",
     "Another Shadow",
+    "Red Dead Redemption 2",
+    "Banjo Kazooie",
 ];
 
 const container = document.getElementById('container');
