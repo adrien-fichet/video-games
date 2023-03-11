@@ -53,15 +53,17 @@ const data = [
     "Half Life",
     "Touhou 6",
     "Touhou 10",
-    "Prototype",
     "Diddy Kong Racing",
+    "Urban Terror",
+    "Enemy Territory",
 
     // Période MMORPG
+    "Runescape",
     "Rappelz",
+    "Prototype",
     "Skyrim",
     "Guild Wars 2",
     "Guild Wars",
-    "Runescape",
 
     // Mapado / Selam / Laeti
     "Path of Exile",
@@ -92,11 +94,13 @@ const data = [
     "Rush Royale",
     "Syberia",
     "Syberia 2",
+    "Albion Online",
     "Haunted Laia",
     "Ghost Case",
     "Another Shadow",
     "Red Dead Redemption 2",
     "Banjo Kazooie",
+    "Hogwarts Legacy",
 ];
 
 const container = document.getElementById('container');
