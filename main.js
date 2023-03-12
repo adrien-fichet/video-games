@@ -7,6 +7,7 @@ const data = [
     "Goldeneye",
     "Super Mario 64",
     "Aladdin",
+    "Road Rash",
     "Toejam and Earl",
     "Donkey Konga",
     "Metal Slug 2",
@@ -87,7 +88,7 @@ const data = [
     "Dota 2", 
     "Dark Souls Remastered",
 
-    // Actuellement
+    // Plus récemment
     "Minecraft",
     "Stardew Valley",
     "Diablo 2",
@@ -100,6 +101,7 @@ const data = [
     "Ghost Case",
     "Another Shadow",
     "Red Dead Redemption 2",
+    "A link to the Past",
     "Banjo Kazooie",
     "Hogwarts Legacy",
 ];
