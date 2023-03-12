@@ -44,6 +44,7 @@ const data = [
     "Corsairs",
     "MDK 2",
     "Duke Nukem 3D",
+    "Castlevania Order of Ecclesia",
 
     // Jeux PC plus tard
     "Oblivion",
