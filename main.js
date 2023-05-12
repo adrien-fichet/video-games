@@ -4,60 +4,60 @@ const data = [
     "Donkey Kong Land",
     "Pokemon Yellow",
     "V-Rally",
-    "Goldeneye",
-    "Super Mario 64",
     "Aladdin",
     "Road Rash",
     "Toejam and Earl",
-    "Donkey Konga",
+    "Goldeneye",
+    "Super Mario 64",
     "Metal Slug 2",
-    "Jet Set Radio",
+    "Crash Team Racing",
+    "Doom",
     "Advance Wars",
     "Mario Kart Super Circuit",
     "Golden Sun",
-    "Crash Team Racing",
+    "Jet Set Radio",
+    "Donkey Konga",
 
     // 1ers jeux PC
-    "Pharaon",
-    "FIFA 2000",
     "Warcraft 2",
     "Rally Championship",
-    "Midtown Madness 2",
+    "MDK 2",
     "Toy Story 2",
     "Rayman 2",
+    "Pharaon",
+    "FIFA 2000",
+    "Flight Simulator 98",
+    "Midtown Madness 2",
+    "Motocross Madness 2",
     "Rayman 3",
     "Le Fabuleux Voyage de l'oncle Ernest",
     "THPS 2",
     "Morrowind",
     "Heart of darkness",
-    "Doom",
     "Myst 3",
     "Virtua Fighter 2",
     "Versailles 1685",
     "Egypte",
     "Heroes 2",
-    "Flight Simulator 98",
-    "Motocross Madness 2",
     "Splinter Cell",
     "Crimson Skies",
     "Ghost Recon",
     "Dark Basic",
     "Corsairs",
-    "MDK 2",
     "Duke Nukem 3D",
     "Castlevania Order of Ecclesia",
 
     // Jeux PC plus tard
-    "Oblivion",
     "Warcraft 3",
+    "Enemy Territory",
+    "Half Life",
+    "Oblivion",
     "NFS Underground 2",
     "Fallout 3",
-    "Half Life",
     "Touhou 6",
     "Touhou 10",
     "Diddy Kong Racing",
     "Urban Terror",
-    "Enemy Territory",
 
     // Période MMORPG
     "Runescape",
@@ -66,10 +66,15 @@ const data = [
     "Skyrim",
     "Guild Wars 2",
     "Guild Wars",
+    "Agar.io",
 
-    // Mapado / Selam / Laeti
+    // Univ
+    "League of Legends", 
+    "Dota 2", 
     "Path of Exile",
     "Amnesia",
+
+    // Mapado / Selam / Laeti
     "Dodonpachi",
     "Ghouls-n-ghosts",
     "Metal Slug 3",
@@ -84,8 +89,6 @@ const data = [
     "GTA 5", 
     "Caesar 3", 
     "Battlerite", 
-    "League of Legends", 
-    "Dota 2", 
     "Dark Souls Remastered",
 
     // Plus récemment
@@ -111,8 +114,7 @@ data.forEach(item => {
     var div = document.createElement('div');
     div.setAttribute('class', 'img-container');
     var img = document.createElement('img');
-    var name = item.toLowerCase().replaceAll(' ', '-');
-    var name = name.replaceAll("'", '-');
+    var name = item.toLowerCase().replaceAll(/[ '\.]/g, '-');
     img.setAttribute('src', 'img/' + name + '.jpg');
     img.setAttribute('alt', name);
     div.appendChild(img);
