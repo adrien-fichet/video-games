@@ -107,6 +107,7 @@ const data = [
     "A link to the Past",
     "Banjo Kazooie",
     "Hogwarts Legacy",
+    "Only Up",
 ];
 
 const container = document.getElementById('container');
