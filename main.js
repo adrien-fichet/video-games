@@ -108,6 +108,7 @@ const data = [
     "Banjo Kazooie",
     "Hogwarts Legacy",
     "Only Up",
+    "Dave the Diver",
 ];
 
 const container = document.getElementById('container');
