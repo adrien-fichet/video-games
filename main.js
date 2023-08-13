@@ -109,6 +109,7 @@ const data = [
     "Hogwarts Legacy",
     "Only Up",
     "Dave the Diver",
+    "Baldur's Gate 3",
 ];
 
 const container = document.getElementById('container');
