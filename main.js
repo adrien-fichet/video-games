@@ -29,6 +29,7 @@ const data = [
     "Pharaon",
     "FIFA 2000",
     "Flight Simulator 98",
+    "L'album secret de l'oncle Ernest",
     "Le Fabuleux Voyage de l'oncle Ernest",
     "Versailles 1685",
     "Egypte",
@@ -70,8 +71,8 @@ const data = [
     "Agar.io",
 
     // Univ
-    "League of Legends", 
-    "Dota 2", 
+    "League of Legends",
+    "Dota 2",
     "Path of Exile",
     "Amnesia",
     "Fallout 3",
@@ -88,9 +89,9 @@ const data = [
     "Unrailed",
     "VR Chat",
     "Pikmin",
-    "GTA 5", 
-    "Caesar 3", 
-    "Battlerite", 
+    "GTA 5",
+    "Caesar 3",
+    "Battlerite",
     "Dark Souls Remastered",
 
     // Plus récemment
@@ -123,5 +124,5 @@ data.forEach(item => {
     img.setAttribute('src', 'img/' + name + '.jpg');
     img.setAttribute('alt', name);
     div.appendChild(img);
-    container.appendChild(div); 
+    container.appendChild(div);
 });
