@@ -87,6 +87,7 @@ const data = [
     "Cuphead",
     "Stephen's Sausage Roll",
     "Overcooked 2",
+    "Overcooked",
     "Unrailed",
     "VR Chat",
     "Pikmin",
