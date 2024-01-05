@@ -31,6 +31,7 @@ const data = [
     "Flight Simulator 98",
     "L'album secret de l'oncle Ernest",
     "Le Fabuleux Voyage de l'oncle Ernest",
+    "L'île Mystérieuse de l'oncle Ernest",
     "Versailles 1685",
     "Egypte",
     "Yoco Le mystère des fruits disparus",
@@ -122,7 +123,11 @@ data.forEach(item => {
     var div = document.createElement('div');
     div.setAttribute('class', 'img-container');
     var img = document.createElement('img');
-    var name = item.toLowerCase().replaceAll(/[ '\.]/g, '-').replaceAll('è', 'e');
+    var name = item.toLowerCase()
+        .replaceAll(/[ '\.]/g, '-')
+        .replaceAll('è', 'e')
+        .replaceAll('é', 'e')
+        .replaceAll('î', 'i');
     img.setAttribute('src', 'img/' + name + '.jpg');
     img.setAttribute('alt', name);
     div.appendChild(img);
