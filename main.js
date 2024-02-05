@@ -12,6 +12,7 @@ const data = [
     "Warcraft 2",
     "Super Mario 64",
     "Crash Team Racing",
+    "La Cité des Echos",
 
     // Collège
     "Doom",
