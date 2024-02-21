@@ -117,6 +117,7 @@ const data = [
     "Only Up",
     "Dave the Diver",
     "Baldur's Gate 3",
+    "Tunic",
 ];
 
 const container = document.getElementById('container');
