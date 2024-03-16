@@ -79,6 +79,7 @@ const data = [
     "Path of Exile",
     "Amnesia",
     "Fallout 3",
+    "Minecraft",
 
     // Mapado / Selam / Laeti
     "Dodonpachi",
@@ -91,6 +92,7 @@ const data = [
     "Overcooked 2",
     "Overcooked",
     "Unrailed",
+    "Tricky Towers",
     "VR Chat",
     "Pikmin",
     "GTA 5",
@@ -99,8 +101,6 @@ const data = [
     "Dark Souls Remastered",
 
     // Plus récemment
-    "Minecraft",
-    "Stardew Valley",
     "Diablo 2",
     "Elden Ring",
     "Rush Royale",
@@ -110,7 +110,6 @@ const data = [
     "Haunted Laia",
     "Ghost Case",
     "Another Shadow",
-    "Red Dead Redemption 2",
     "A link to the Past",
     "Banjo Kazooie",
     "Hogwarts Legacy",
@@ -118,6 +117,7 @@ const data = [
     "Dave the Diver",
     "Baldur's Gate 3",
     "Tunic",
+    "Firewatch",
 ];
 
 const container = document.getElementById('container');
