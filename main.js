@@ -118,6 +118,7 @@ const data = [
     "Baldur's Gate 3",
     "Tunic",
     "Firewatch",
+    "Dordogne",
 ];
 
 const container = document.getElementById('container');
