@@ -27,6 +27,7 @@ const data = [
     "MDK 2",
     "Toy Story 2",
     "Rayman 2",
+    "Disney Magic Artist Studio",
     "Pharaon",
     "FIFA 2000",
     "Flight Simulator 98",
@@ -119,6 +120,8 @@ const data = [
     "Tunic",
     "Firewatch",
     "Dordogne",
+    "Little Kitty, Big City",
+    "Planet of Lana",
 ];
 
 const container = document.getElementById('container');
@@ -130,6 +133,7 @@ data.forEach(item => {
         .replaceAll(/[ '\.]/g, '-')
         .replaceAll('è', 'e')
         .replaceAll('é', 'e')
+        .replaceAll(',', '')
         .replaceAll('î', 'i');
     img.setAttribute('src', 'img/' + name + '.jpg');
     img.setAttribute('alt', name);
