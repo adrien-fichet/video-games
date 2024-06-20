@@ -1,18 +1,19 @@
 const data = [
     // Enfance
+    "Metal Slug 2",
     "Tintin au Tibet",
     "Donkey Kong Land",
     "Pokemon Yellow",
     "V-Rally",
-    "Metal Slug 2",
+    "Les Schtroumpfs",
+    "Aladdin",
     "Toejam and Earl",
     "Road Rash",
-    "Aladdin",
     "Goldeneye",
-    "Warcraft 2",
     "Super Mario 64",
-    "Crash Team Racing",
+    "Warcraft 2",
     "La Cité des Echos",
+    "Crash Team Racing",
 
     // Collège
     "Doom",
@@ -81,6 +82,7 @@ const data = [
     "Amnesia",
     "Fallout 3",
     "Minecraft",
+    "Kingdom Rush",
 
     // Mapado / Selam / Laeti
     "Dodonpachi",
