@@ -125,6 +125,7 @@ const data = [
     "Dordogne",
     "Little Kitty, Big City",
     "Planet of Lana",
+    "GTA 3",
 ];
 
 const container = document.getElementById('container');
