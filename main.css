@@ -1,7 +1,7 @@
 body {
-    margin: 0;
-    background-image: url('img/metal-grid-background.jpg');
+    margin: 0 auto;
     color: white;
+    background-color: #121221;
 }
 
 #container {
@@ -12,16 +12,60 @@ body {
 }
 
 .img-container {
-    width: 256px;
-    height: 256px;
+    width: 230px;
+    height: 280px;
     display: flex;
     align-items: center;
     justify-content: center;
-    padding: 10px;
+    margin: 10px;
+
+    perspective: 1000px;
+	perspective-origin: center top;
+
+    overflow: hidden;
+    transform-origin: 100% 0;
+
+	box-shadow: 0px 10px 39px 10px rgba(62, 66, 66, 0.22);
+	border-radius: 2px;
+	transition: transform 0.3s ease-in-out;
+
+	&:hover {
+		transform: rotateX(10deg);
+
+		.gradient {
+			height: 100%;
+			opacity: 1;
+		}
+	}
 }
 
 img {
-    max-width: 256px;
-    max-height: 256px;
-    border: 5px solid rgba(200, 200, 200, 0.7);
+    width: 100%;
+    height: 100%;
+    max-width: 230px;
+    max-height: 280px;
+}
+
+.gradient {
+    position: absolute;
+    content: "";
+    top: 0;
+    left: 0;
+    z-index: 1;
+
+    transform: rotate(30deg);
+    transform-origin: top right;
+
+    width: 200%;
+    height: 65%;
+
+    opacity: 0.3;
+    background: linear-gradient(
+        0turn,
+        transparent 0%,
+        rgba(200, 200, 200, 0.4) 5%,
+        rgba(255, 255, 255, 0.2) 15%,
+        rgba(255, 255, 255, 0.1) 100%
+    );
+    transition: height 0.3s ease-in-out, opacity 0.3s ease-in-out;
 }

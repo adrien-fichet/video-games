@@ -142,5 +142,8 @@ data.forEach(item => {
     img.setAttribute('src', 'img/' + name + '.jpg');
     img.setAttribute('alt', name);
     div.appendChild(img);
+    var gradient = document.createElement('div');
+    gradient.setAttribute('class', 'gradient');
+    div.appendChild(gradient);
     container.appendChild(div);
 });
