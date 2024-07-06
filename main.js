@@ -83,6 +83,7 @@ const data = [
     "Fallout 3",
     "Minecraft",
     "Kingdom Rush",
+    "Moontype",
 
     // Mapado / Selam / Laeti
     "Dodonpachi",
@@ -94,6 +95,7 @@ const data = [
     "Stephen's Sausage Roll",
     "Overcooked 2",
     "Overcooked",
+    "Magicka 2",
     "Heave Ho",
     "Unrailed",
     "Tricky Towers",
@@ -126,24 +128,28 @@ const data = [
     "Little Kitty, Big City",
     "Planet of Lana",
     "GTA 3",
+    "Tomb Raider",
 ];
 
-const container = document.getElementById('container');
+const library = document.getElementById('library');
 data.forEach(item => {
-    var div = document.createElement('div');
-    div.setAttribute('class', 'img-container');
-    var img = document.createElement('img');
-    var name = item.toLowerCase()
+    const game = document.createElement('div');
+    game.setAttribute('class', 'game');
+    const gameWrapper = document.createElement('div');
+    gameWrapper.setAttribute('class', 'game-wrapper');
+    const img = document.createElement('img');
+    const imgName = item.toLowerCase()
         .replaceAll(/[ '\.]/g, '-')
         .replaceAll('è', 'e')
         .replaceAll('é', 'e')
         .replaceAll(',', '')
         .replaceAll('î', 'i');
-    img.setAttribute('src', 'img/' + name + '.jpg');
-    img.setAttribute('alt', name);
-    div.appendChild(img);
-    var gradient = document.createElement('div');
+    img.setAttribute('src', './img/' + imgName + '.jpg');
+    img.setAttribute('alt', imgName);
+    gameWrapper.appendChild(img);
+    const gradient = document.createElement('div');
     gradient.setAttribute('class', 'gradient');
-    div.appendChild(gradient);
-    container.appendChild(div);
+    gameWrapper.appendChild(gradient);
+    game.appendChild(gameWrapper);
+    library.appendChild(game);
 });
