@@ -144,7 +144,10 @@ data.forEach(item => {
         .replaceAll('é', 'e')
         .replaceAll(',', '')
         .replaceAll('î', 'i');
-    img.setAttribute('src', './img/' + imgName + '.jpg');
+    img.setAttribute('class', 'lazyload');
+    img.setAttribute('data-sizes', 'auto');
+    img.setAttribute('src', './thumbs/' + imgName + '.jpg');
+    img.setAttribute('data-src', './img/' + imgName + '.jpg');
     img.setAttribute('alt', imgName);
     gameWrapper.appendChild(img);
     const gradient = document.createElement('div');
