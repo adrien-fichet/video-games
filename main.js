@@ -38,6 +38,7 @@ const data = [
     "Versailles 1685",
     "Egypte",
     "Yoco Le mystère des fruits disparus",
+    "Lego Stunt Rally",
     "Midtown Madness 2",
     "Motocross Madness 2",
     "Rayman 3",
@@ -54,6 +55,7 @@ const data = [
     "Corsairs",
     "Duke Nukem 3D",
     "Castlevania Order of Ecclesia",
+    "Jekyll and Hyde",
 
     // Jeux PC plus tard
     "Warcraft 3",
