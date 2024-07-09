@@ -1,68 +1,65 @@
 body {
-	background-color: #121221;
+  background-color: #121221;
 }
 
 img {
-	width: 100%;
+  width: 100%;
 }
 
 #library {
-	display: flex;
-	grid-gap: 16px;
-	justify-content: center;
-	align-items: center;
+  display: flex;
+  grid-gap: 16px;
+  justify-content: center;
+  align-items: center;
   flex-wrap: wrap;
 }
 
 .game {
-	width: 200px;
-	display: flex;
-	perspective: 1000px;
-	perspective-origin: center top;
-	height: max-content;
+  width: 200px;
+  display: flex;
+  perspective: 1000px;
+  perspective-origin: center top;
+  height: -webkit-max-content;
+  height: -moz-max-content;
+  height: max-content;
+}
 
-	.game-wrapper {
-		position: relative;
-		display: flex;
-		overflow: hidden;
+.game .game-wrapper {
+  position: relative;
+  display: flex;
+  overflow: hidden;
+  transform-origin: 100% 0;
+  box-shadow: 0px 10px 39px 10px rgba(62, 66, 66, 0.22);
+  border-radius: 2px;
+  transition: transform 0.3s ease-in-out;
+}
 
-		transform-origin: 100% 0;
+.game .game-wrapper:hover {
+  transform: rotateX(10deg);
+}
 
-		box-shadow: 0px 10px 39px 10px rgba(62, 66, 66, 0.22);
-		border-radius: 2px;
-		transition: transform 0.3s ease-in-out;
+.game .game-wrapper:hover .gradient {
+  height: 100%;
+  opacity: 1;
+}
 
-		&:hover {
-			transform: rotateX(10deg);
-
-			.gradient {
-				height: 100%;
-				opacity: 1;
-			}
-		}
-	}
-
-	.gradient {
-		position: absolute;
-		content: "";
-		top: 0;
-		left: 0;
-		z-index: 1;
-
-		transform: rotate(30deg);
-		transform-origin: top right;
-
-		width: 200%;
-		height: 65%;
-
-		opacity: 0.3;
-		background: linear-gradient(
-			0turn,
-			transparent 0%,
-			rgba(200, 200, 200, 0.4) 5%,
-			rgba(255, 255, 255, 0.2) 15%,
-			rgba(255, 255, 255, 0.1) 100%
-		);
-		transition: height 0.3s ease-in-out, opacity 0.3s ease-in-out;
-	}
+.game .gradient {
+  position: absolute;
+  content: "";
+  top: 0;
+  left: 0;
+  z-index: 1;
+  transform: rotate(30deg);
+  transform-origin: top right;
+  width: 200%;
+  height: 65%;
+  opacity: 0.3;
+  background: linear-gradient(
+    0turn,
+    transparent 0%,
+    rgba(200, 200, 200, 0.4) 5%,
+    rgba(255, 255, 255, 0.2) 15%,
+    rgba(255, 255, 255, 0.1) 100%
+  );
+  transition: height 0.3s ease-in-out, opacity 0.3s ease-in-out;
 }
