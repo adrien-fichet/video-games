@@ -82,6 +82,7 @@ const data = [
     "Dota 2",
     "Path of Exile",
     "Amnesia",
+    "Warsow",
     "Fallout 3",
     "Minecraft",
     "Kingdom Rush",
