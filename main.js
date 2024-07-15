@@ -17,11 +17,14 @@ const data = [
 
     // Collège
     "Doom",
+    "Les Royaumes Renaissants",
     "Advance Wars",
     "Mario Kart Super Circuit",
+    "Harry Potter and the Chamber of Secrets",
     "Golden Sun",
     "Jet Set Radio",
     "Donkey Konga",
+    "Super Smash Bros Melee",
 
     // 1ers jeux PC
     "Rally Championship",
@@ -56,6 +59,7 @@ const data = [
     "Duke Nukem 3D",
     "Castlevania Order of Ecclesia",
     "Jekyll and Hyde",
+    "Les fous du volant",
 
     // Jeux PC plus tard
     "Warcraft 3",
@@ -87,6 +91,8 @@ const data = [
     "Minecraft",
     "Kingdom Rush",
     "Moontype",
+    "Dungeon Keeper",
+    "Pokemon Emerald",
 
     // Mapado / Selam / Laeti
     "Dodonpachi",
@@ -98,6 +104,7 @@ const data = [
     "Stephen's Sausage Roll",
     "Overcooked 2",
     "Overcooked",
+    "Tools Up",
     "Magicka 2",
     "Heave Ho",
     "Unrailed",
