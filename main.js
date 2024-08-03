@@ -60,6 +60,7 @@ const data = [
     "Castlevania Order of Ecclesia",
     "Jekyll and Hyde",
     "Les fous du volant",
+    "THPS 3",
 
     // Jeux PC plus tard
     "Warcraft 3",
@@ -139,6 +140,9 @@ const data = [
     "Planet of Lana",
     "GTA 3",
     "Tomb Raider",
+    "The Witness",
+    "Fable",
+    "Hades",
 ];
 
 const library = document.getElementById('library');
