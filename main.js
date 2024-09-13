@@ -141,8 +141,8 @@ const data = [
     "GTA 3",
     "Tomb Raider",
     "The Witness",
-    "Fable",
     "Hades",
+    "World of Goo 2",
 ];
 
 const library = document.getElementById('library');
