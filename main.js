@@ -143,6 +143,7 @@ const data = [
     "The Witness",
     "Hades",
     "World of Goo 2",
+    "The Plucky Squire",
 ];
 
 const library = document.getElementById('library');
