@@ -108,9 +108,9 @@ const data = [
     "Tools Up",
     "Magicka 2",
     "Heave Ho",
+    "VR Chat",
     "Unrailed",
     "Tricky Towers",
-    "VR Chat",
     "Pikmin",
     "GTA 5",
     "Caesar 3",
@@ -144,6 +144,7 @@ const data = [
     "Hades",
     "World of Goo 2",
     "The Plucky Squire",
+    "Bioshock",
 ];
 
 const library = document.getElementById('library');
