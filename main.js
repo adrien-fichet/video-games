@@ -145,6 +145,8 @@ const data = [
     "World of Goo 2",
     "The Plucky Squire",
     "Bioshock",
+    "Unsolved case",
+    "Unboxing the cryptic killer",
 ];
 
 const library = document.getElementById('library');
