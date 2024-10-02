@@ -147,6 +147,7 @@ const data = [
     "Bioshock",
     "Unsolved case",
     "Unboxing the cryptic killer",
+    "Star Wars KOTOR",
 ];
 
 const library = document.getElementById('library');
