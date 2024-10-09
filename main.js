@@ -148,6 +148,7 @@ const data = [
     "Unsolved case",
     "Unboxing the cryptic killer",
     "Star Wars KOTOR",
+    "Castlevania SOTN",
 ];
 
 const library = document.getElementById('library');
