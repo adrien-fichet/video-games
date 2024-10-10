@@ -149,6 +149,7 @@ const data = [
     "Unboxing the cryptic killer",
     "Star Wars KOTOR",
     "Castlevania SOTN",
+    "Escape from the shadows",
 ];
 
 const library = document.getElementById('library');
