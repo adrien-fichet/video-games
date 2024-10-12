@@ -150,6 +150,7 @@ const data = [
     "Star Wars KOTOR",
     "Castlevania SOTN",
     "Escape from the shadows",
+    "Beyond the room",
 ];
 
 const library = document.getElementById('library');
