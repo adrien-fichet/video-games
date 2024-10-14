@@ -151,6 +151,7 @@ const data = [
     "Castlevania SOTN",
     "Escape from the shadows",
     "Beyond the room",
+    "Silent Hill 2",
 ];
 
 const library = document.getElementById('library');
