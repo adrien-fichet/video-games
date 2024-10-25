@@ -152,6 +152,7 @@ const data = [
     "Escape from the shadows",
     "Beyond the room",
     "Silent Hill 2",
+    "Crash Bandicoot",
 ];
 
 const library = document.getElementById('library');
