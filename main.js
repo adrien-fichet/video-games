@@ -153,6 +153,7 @@ const data = [
     "Beyond the room",
     "Silent Hill 2",
     "Crash Bandicoot",
+    "Super Metroid",
 ];
 
 const library = document.getElementById('library');
