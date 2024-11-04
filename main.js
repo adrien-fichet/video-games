@@ -154,6 +154,7 @@ const data = [
     "Silent Hill 2",
     "Crash Bandicoot",
     "Super Metroid",
+    "QuackShot",
 ];
 
 const library = document.getElementById('library');
