@@ -6,8 +6,10 @@ const data = [
     "Pokemon Yellow",
     "V-Rally",
     "Les Schtroumpfs",
+    "Kirby's Dream Land",
     "Aladdin",
     "Toejam and Earl",
+    "QuackShot",
     "Road Rash",
     "Goldeneye",
     "Super Mario 64",
@@ -23,6 +25,8 @@ const data = [
     "Harry Potter and the Chamber of Secrets",
     "Golden Sun",
     "Jet Set Radio",
+    "SSX Tricky",
+    "Rogue Squadron 2",
     "Donkey Konga",
     "Super Smash Bros Melee",
 
@@ -99,6 +103,7 @@ const data = [
     "Dodonpachi",
     "Ghouls-n-ghosts",
     "Metal Slug 3",
+    "Metal Slug 1",
     "Human Fall Flat",
     "Age of Empire 2",
     "Cuphead",
@@ -154,7 +159,7 @@ const data = [
     "Silent Hill 2",
     "Crash Bandicoot",
     "Super Metroid",
-    "QuackShot",
+    "Limbo",
 ];
 
 const library = document.getElementById('library');
