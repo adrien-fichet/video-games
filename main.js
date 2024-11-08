@@ -65,7 +65,6 @@ const data = [
     "Morrowind",
     "Heart of darkness",
     "Myst 3",
-    "Virtua Fighter 2",
     "Splinter Cell",
     "Crimson Skies",
     "Ghost Recon",
@@ -74,10 +73,16 @@ const data = [
     "Jekyll and Hyde",
     "Les fous du volant",
     "THPS 3",
-    "Enemy Territory",
     "Half Life",
     "Oblivion",
     "NFS Underground 2",
+
+    // PC Jeux hors-série mai/juin 2005
+    "Starsiege Tribes",
+    "Virtua Fighter 2",
+    "Ground Control",
+    "Enemy Territory",
+    "Screamer 4x4",
 
     // Période MMORPG
     "Runescape",
@@ -94,6 +99,7 @@ const data = [
     "Warsow",
     "Amnesia",
     "Moontype",
+    "Super Meat Boy",
     "Fallout 3",
     "Touhou 6",
     "Touhou 7",
@@ -106,9 +112,10 @@ const data = [
     "Dungeon Keeper",
     "Diddy Kong Racing",
     "Pokemon Emerald",
-    "Minecraft",
     "Kingdom Rush",
     "Agar.io",
+    "The Binding of Isaac",
+    "Minecraft",
 
     // Mapado / Selam / Laeti
     "Dodonpachi",
@@ -124,6 +131,7 @@ const data = [
     "Tools Up",
     "Magicka 2",
     "Heave Ho",
+    "Children of Morta",
     "VR Chat",
     "Battlerite",
     "Unrailed",
@@ -149,6 +157,8 @@ const data = [
     "Only Up",
     "Dave the Diver",
     "Baldur's Gate 3",
+
+    // 2024
     "Tunic",
     "Firewatch",
     "Dordogne",
@@ -170,6 +180,9 @@ const data = [
     "Crash Bandicoot",
     "Super Metroid",
     "Limbo",
+    "Dr Mario",
+    "Apotris",
+    "Tetris Effect",
 ];
 
 const library = document.getElementById('library');
