@@ -183,6 +183,8 @@ const data = [
     "Dr Mario",
     "Apotris",
     "Tetris Effect",
+    "Portal",
+    "Portal 2",
 ];
 
 const library = document.getElementById('library');
