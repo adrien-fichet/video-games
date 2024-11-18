@@ -99,6 +99,7 @@ const data = [
     "Warsow",
     "Amnesia",
     "Moontype",
+    "Cookie Clicker",
     "Super Meat Boy",
     "Fallout 3",
     "Touhou 6",
@@ -185,6 +186,8 @@ const data = [
     "Tetris Effect",
     "Portal",
     "Portal 2",
+    "Half-Life 2",
+    "The Legend of Zelda",
 ];
 
 const library = document.getElementById('library');
