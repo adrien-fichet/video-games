@@ -186,8 +186,9 @@ const data = [
     "Tetris Effect",
     "Portal",
     "Portal 2",
-    "Half-Life 2",
     "The Legend of Zelda",
+    "Half-Life 2",
+    "Half-Life 2 ep 1",
 ];
 
 const library = document.getElementById('library');
