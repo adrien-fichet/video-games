@@ -27,6 +27,7 @@ The Steam library hover effect comes from https://codepen.io/ArranGravestock/pen
 - Jak & Daxter precursor legacy
 
 ## Games to play
+- Fez
 - Journey
 - Heavy Rain
 - Time Gentlemen, Please!

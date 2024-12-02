@@ -189,6 +189,7 @@ const data = [
     "The Legend of Zelda",
     "Half-Life 2",
     "Half-Life 2 ep 1",
+    "Half-Life 2 ep 2",
 ];
 
 const library = document.getElementById('library');
