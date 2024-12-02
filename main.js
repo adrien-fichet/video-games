@@ -190,6 +190,8 @@ const data = [
     "Half-Life 2",
     "Half-Life 2 ep 1",
     "Half-Life 2 ep 2",
+    "Half-Life 2 lost coast",
+    "Fez",
 ];
 
 const library = document.getElementById('library');
