@@ -20,6 +20,7 @@ const data = [
     "Aliens vs Predator",
 
     // 1ers jeux PC
+    "3D pinball",
     "Rally Championship",
     "MDK 2",
     "Toy Story 2",
@@ -40,6 +41,7 @@ const data = [
     "Midtown Madness 2",
     "Motocross Madness 2",
     "La Cité des Echos",
+    "The Lost Gold",
     "Rayman 3",
     "THPS 2",
 
