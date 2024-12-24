@@ -94,3 +94,7 @@ The Steam library hover effect comes from https://codepen.io/ArranGravestock/pen
 - Left 4 Dead 1 & 2
 - Dishonored
 - A Hat in Time
+- Hollow Knight
+- Death's Door
+- The Darkness
+- Indiana Jones and the Great Circle
