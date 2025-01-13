@@ -25,6 +25,7 @@ The Steam library hover effect comes from https://codepen.io/ArranGravestock/pen
 - KOTOR 1 & 2
 - Sonic Adventure
 - Jak & Daxter precursor legacy
+- Disco Elysium
 
 ## Games to play
 - Journey
@@ -98,3 +99,7 @@ The Steam library hover effect comes from https://codepen.io/ArranGravestock/pen
 - Death's Door
 - The Darkness
 - Indiana Jones and the Great Circle
+- Balatro
+- Le manoir de Mortevieille
+- Mavis Beacon teaches typing
+- Where in the world is Carmen Sandiego?
