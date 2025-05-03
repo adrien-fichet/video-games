@@ -1,4 +1,4 @@
-Deployed on [laeti-et-adri.com/video-games](https://laeti-et-adri.com/video-games/)
+Deployed on [adrien-fichet.github.io/video-games](https://adrien-fichet.github.io/video-games/)
 
 This is a website listing all the video games I played, in chronological order!
 
