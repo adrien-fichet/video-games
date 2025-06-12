@@ -104,3 +104,4 @@ The Steam library hover effect comes from https://codepen.io/ArranGravestock/pen
 - Mavis Beacon teaches typing
 - Where in the world is Carmen Sandiego?
 - Tekken 3
+- Expedition 33: Clair Obscur

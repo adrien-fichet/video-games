@@ -195,6 +195,7 @@ const data = [
     "Half-Life 2 lost coast",
     "Fez",
     "Path of Exile 2",
+    "Factorio",
 ];
 
 const library = document.getElementById('library');
