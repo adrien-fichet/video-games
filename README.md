@@ -26,6 +26,7 @@ The Steam library hover effect comes from https://codepen.io/ArranGravestock/pen
 - Sonic Adventure
 - Jak & Daxter precursor legacy
 - Disco Elysium
+- https://adamgryu.itch.io/spooky-house
 
 ## Games to play
 - Journey
@@ -105,3 +106,4 @@ The Steam library hover effect comes from https://codepen.io/ArranGravestock/pen
 - Where in the world is Carmen Sandiego?
 - Tekken 3
 - Expedition 33: Clair Obscur
+- Anno 1800
