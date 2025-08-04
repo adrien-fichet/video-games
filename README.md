@@ -107,3 +107,5 @@ The Steam library hover effect comes from https://codepen.io/ArranGravestock/pen
 - Tekken 3
 - Expedition 33: Clair Obscur
 - Anno 1800
+- Dead Space remake
+- XCOM 2

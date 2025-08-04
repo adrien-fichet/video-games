@@ -133,6 +133,7 @@ const data = [
     "Overcooked",
     "Tools Up",
     "Magicka 2",
+    "Hacktag",
     "Heave Ho",
     "Children of Morta",
     "VR Chat",
