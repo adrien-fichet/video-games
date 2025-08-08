@@ -197,6 +197,7 @@ const data = [
     "Fez",
     "Path of Exile 2",
     "Factorio",
+    "Crimson Room",
 ];
 
 const library = document.getElementById('library');
