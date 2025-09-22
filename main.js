@@ -198,6 +198,7 @@ const data = [
     "Path of Exile 2",
     "Factorio",
     "Crimson Room",
+    "L'Amerzone",
 ];
 
 const library = document.getElementById('library');

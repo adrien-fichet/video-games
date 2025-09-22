@@ -81,7 +81,7 @@ The Steam library hover effect comes from https://codepen.io/ArranGravestock/pen
 - Sanitarium
 - System Shock 2
 - Gran Turismo 4
-- Halo CE
+- Halo CE / 2
 - GTA San Andreas
 - Medievil 1 & 2
 - Inside
@@ -97,7 +97,7 @@ The Steam library hover effect comes from https://codepen.io/ArranGravestock/pen
 - Left 4 Dead 1 & 2
 - Dishonored
 - A Hat in Time
-- Hollow Knight
+- Hollow Knight & Silksong
 - Death's Door
 - The Darkness
 - Indiana Jones and the Great Circle
@@ -115,3 +115,7 @@ The Steam library hover effect comes from https://codepen.io/ArranGravestock/pen
 - Projected Dreams
 - The Star Named EOS
 - Rusty Lake
+- Blue Prince
+- We were here together
+- Yooka-Laylee
+- Jade Empire
