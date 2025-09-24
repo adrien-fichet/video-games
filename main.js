@@ -199,6 +199,7 @@ const data = [
     "Factorio",
     "Crimson Room",
     "L'Amerzone",
+    "Megabonk",
 ];
 
 const library = document.getElementById('library');

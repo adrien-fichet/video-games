@@ -119,3 +119,21 @@ The Steam library hover effect comes from https://codepen.io/ArranGravestock/pen
 - We were here together
 - Yooka-Laylee
 - Jade Empire
+- Dark Fall: The Journal
+- The Lost Crown: A Ghost Hunting Adventure
+- Scratches: Director's Cut
+- The Last Door
+- Kathy Rain
+- Barrow Hill: Curse of the Ancient Circle
+- The Whispering Valley
+- The Excavation of Hob's Barrow
+- Fran Bow
+- Rusty Lake
+- The Case of the Golden Idol
+- The Return of the Obra Dinn
+- Black Mirror (the original)
+- Stories Untold
+- Thinbleweed Park
+- The Count Lucanor
+- Lucy Dreaming
+- The Longest Journey
