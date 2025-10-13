@@ -78,10 +78,9 @@ The Steam library hover effect comes from https://codepen.io/ArranGravestock/pen
 - FEAR
 - Grim Fandango
 - Bordelands 2
-- Sanitarium
 - System Shock 2
 - Gran Turismo 4
-- Halo CE / 2
+- Halo CE / 2 / 3
 - GTA San Andreas
 - Medievil 1 & 2
 - Inside

@@ -200,6 +200,7 @@ const data = [
     "Crimson Room",
     "L'Amerzone",
     "Megabonk",
+    "Sanitarium",
 ];
 
 const library = document.getElementById('library');
