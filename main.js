@@ -201,6 +201,7 @@ const data = [
     "L'Amerzone",
     "Megabonk",
     "Sanitarium",
+    "La maison perdue de l'oncle Ernest",
 ];
 
 const library = document.getElementById('library');

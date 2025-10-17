@@ -27,7 +27,6 @@ The Steam library hover effect comes from https://codepen.io/ArranGravestock/pen
 - Jak & Daxter precursor legacy
 - Disco Elysium
 - https://adamgryu.itch.io/spooky-house
-- La maison perdue de l'oncle Ernest
 
 ## Games to play
 - Journey
