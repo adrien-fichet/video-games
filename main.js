@@ -202,6 +202,7 @@ const data = [
     "Megabonk",
     "Sanitarium",
     "La maison perdue de l'oncle Ernest",
+    "Stray",
 ];
 
 const library = document.getElementById('library');

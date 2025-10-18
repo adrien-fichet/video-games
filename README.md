@@ -21,7 +21,6 @@ The Steam library hover effect comes from https://codepen.io/ArranGravestock/pen
 - Soulcalibur 2
 - RDR 1 & 2
 - Stardew valley
-- Stray
 - KOTOR 1 & 2
 - Sonic Adventure
 - Jak & Daxter precursor legacy
