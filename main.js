@@ -196,6 +196,8 @@ const data = [
     "Half-Life 2 lost coast",
     "Fez",
     "Path of Exile 2",
+
+    // 2025
     "Factorio",
     "Crimson Room",
     "L'Amerzone",
@@ -203,6 +205,7 @@ const data = [
     "Sanitarium",
     "La maison perdue de l'oncle Ernest",
     "Stray",
+    "Inside",
 ];
 
 const library = document.getElementById('library');

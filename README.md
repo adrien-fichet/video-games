@@ -81,7 +81,6 @@ The Steam library hover effect comes from https://codepen.io/ArranGravestock/pen
 - Halo CE / 2 / 3
 - GTA San Andreas
 - Medievil 1 & 2
-- Inside
 - Dragon Quest 8
 - Deus Ex
 - Driver
