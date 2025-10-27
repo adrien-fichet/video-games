@@ -26,6 +26,9 @@ The Steam library hover effect comes from https://codepen.io/ArranGravestock/pen
 - Jak & Daxter precursor legacy
 - Disco Elysium
 - https://adamgryu.itch.io/spooky-house
+- Outer Wilds
+- Blue Prince
+- Baba is you
 
 ## Games to play
 - Journey
@@ -110,8 +113,7 @@ The Steam library hover effect comes from https://codepen.io/ArranGravestock/pen
 - Q.U.B.E.
 - Projected Dreams
 - The Star Named EOS
-- Rusty Lake
-- Blue Prince
+- Games from Rusty Lake
 - We were here together
 - Yooka-Laylee
 - Jade Empire
@@ -124,7 +126,6 @@ The Steam library hover effect comes from https://codepen.io/ArranGravestock/pen
 - The Whispering Valley
 - The Excavation of Hob's Barrow
 - Fran Bow
-- Rusty Lake
 - The Case of the Golden Idol
 - The Return of the Obra Dinn
 - Black Mirror (the original)
@@ -133,3 +134,15 @@ The Steam library hover effect comes from https://codepen.io/ArranGravestock/pen
 - The Count Lucanor
 - Lucy Dreaming
 - The Longest Journey
+- Heaven's Vault
+- Keeper
+- La-Mulana
+- Lorelei and the Laser Eyes
+- Gorogoa
+- Void Stranger
+- The Stanley Parable
+- Superliminal
+- Control
+- Chants of Sennar
+- What remains of Edith Finch
+- Paradise Killer
