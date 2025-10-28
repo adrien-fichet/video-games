@@ -135,7 +135,6 @@ The Steam library hover effect comes from https://codepen.io/ArranGravestock/pen
 - Lucy Dreaming
 - The Longest Journey
 - Heaven's Vault
-- Keeper
 - La-Mulana
 - Lorelei and the Laser Eyes
 - Gorogoa
