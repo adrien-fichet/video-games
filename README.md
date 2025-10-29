@@ -29,6 +29,7 @@ The Steam library hover effect comes from https://codepen.io/ArranGravestock/pen
 - Outer Wilds
 - Blue Prince
 - Baba is you
+- Mass Effect trilogy
 
 ## Games to play
 - Journey
@@ -89,7 +90,6 @@ The Steam library hover effect comes from https://codepen.io/ArranGravestock/pen
 - Driver
 - Shovel Knight
 - Crypt of the necrodancer
-- Factorio
 - Don't Starve
 - Civilization 5
 - Rimworld
@@ -131,7 +131,6 @@ The Steam library hover effect comes from https://codepen.io/ArranGravestock/pen
 - Black Mirror (the original)
 - Stories Untold
 - Thinbleweed Park
-- The Count Lucanor
 - Lucy Dreaming
 - The Longest Journey
 - Heaven's Vault

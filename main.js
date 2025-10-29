@@ -207,6 +207,7 @@ const data = [
     "Stray",
     "Inside",
     "Keeper",
+    "The Count Lucanor",
 ];
 
 const library = document.getElementById('library');
