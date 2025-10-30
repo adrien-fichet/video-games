@@ -8,11 +8,12 @@ The Steam library hover effect comes from https://codepen.io/ArranGravestock/pen
 
 ## Games to finish
 - Fable
-- Super Mario Sunshine
 - Spyro
-- Super Mario bros
 - Starcraft 1 & 2
-- Super Mario world
+- Super Mario Sunshine
+- Super Mario bros 1 & 3
+- Super Mario world 1 & 2
+- Super Mario Land 1 & 3
 - Starfox Adventures
 - Sonic 1
 - Silent Hill 1
@@ -30,13 +31,13 @@ The Steam library hover effect comes from https://codepen.io/ArranGravestock/pen
 - Blue Prince
 - Baba is you
 - Mass Effect trilogy
+- Rayman 1
 
 ## Games to play
 - Journey
 - Heavy Rain
 - Time Gentlemen, Please!
 - MGS
-- Braid
 - Battlefield: Bad Company
 - Uncharted 1 & 2
 - Okami
@@ -60,7 +61,7 @@ The Steam library hover effect comes from https://codepen.io/ArranGravestock/pen
 - Sid Meier's Pirates!
 - Assassin's Creed: Black Flag
 - Phoenix Wright: Ace Attorney
-- Beyond Good and Evil
+- Beyond Good & Evil
 - SSX 3
 - Devil May Cry
 - Wipeout
@@ -94,7 +95,7 @@ The Steam library hover effect comes from https://codepen.io/ArranGravestock/pen
 - Civilization 5
 - Rimworld
 - Left 4 Dead 1 & 2
-- Dishonored
+- Dishonored 1 & 2
 - A Hat in Time
 - Hollow Knight & Silksong
 - Death's Door
@@ -141,6 +142,17 @@ The Steam library hover effect comes from https://codepen.io/ArranGravestock/pen
 - The Stanley Parable
 - Superliminal
 - Control
-- Chants of Sennar
+- Chants of Sennaar
 - What remains of Edith Finch
 - Paradise Killer
+- Another World
+- Little Big Adventure
+- OFF
+- Furi
+- Woodruff et le Schnibble d'Azimuth
+- L'Arche du Captain Blood
+- Maupiti Island
+- Far Cry 3
+- A Short Hike
+- Samorost 3
+- Bastion
