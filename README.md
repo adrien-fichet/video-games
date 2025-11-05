@@ -19,7 +19,7 @@ The Steam library hover effect comes from https://codepen.io/ArranGravestock/pen
 - Silent Hill 1
 - Monkey Island 1 & 2
 - Final Fantasy 6, 7, 8, 9
-- Soulcalibur 2
+- Soulcalibur 1 & 2
 - RDR 1 & 2
 - Stardew valley
 - KOTOR 1 & 2
@@ -32,6 +32,7 @@ The Steam library hover effect comes from https://codepen.io/ArranGravestock/pen
 - Baba is you
 - Mass Effect trilogy
 - Rayman 1
+- Wind Waker
 
 ## Games to play
 - Journey
@@ -84,7 +85,7 @@ The Steam library hover effect comes from https://codepen.io/ArranGravestock/pen
 - System Shock 2
 - Gran Turismo 4
 - Halo CE / 2 / 3
-- GTA San Andreas
+- GTA 3 Vice City & San Andreas
 - Medievil 1 & 2
 - Dragon Quest 8
 - Deus Ex
@@ -128,7 +129,6 @@ The Steam library hover effect comes from https://codepen.io/ArranGravestock/pen
 - The Excavation of Hob's Barrow
 - Fran Bow
 - The Case of the Golden Idol
-- The Return of the Obra Dinn
 - Black Mirror (the original)
 - Stories Untold
 - Thinbleweed Park
@@ -153,6 +153,24 @@ The Steam library hover effect comes from https://codepen.io/ArranGravestock/pen
 - L'Arche du Captain Blood
 - Maupiti Island
 - Far Cry 3
-- A Short Hike
 - Samorost 3
 - Bastion
+- Patrick's Paradox
+- Antichamber
+- A Monster's Expedition
+- Perfect Dark
+- Thomas was alone
+- The Bridge
+- The Swapper
+- No Time to Explain
+- Octodad (original)
+- Jazzpunk
+- Auditorium
+- Transistor
+- To the moon
+- Machinarium
+- Sweezy gunner
+- Finding Teddy
+- KAMI
+- rain
+- Gone home

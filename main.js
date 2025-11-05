@@ -209,6 +209,8 @@ const data = [
     "Keeper",
     "The Count Lucanor",
     "Braid",
+    "A Short Hike",
+    "Return of the Obra Dinn",
 ];
 
 const library = document.getElementById('library');
