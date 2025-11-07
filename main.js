@@ -211,6 +211,7 @@ const data = [
     "Braid",
     "A Short Hike",
     "Return of the Obra Dinn",
+    "Chants of Sennaar",
 ];
 
 const library = document.getElementById('library');

@@ -75,7 +75,6 @@ The Steam library hover effect comes from https://codepen.io/ArranGravestock/pen
 - Ocarina of time
 - Time crisis 2
 - Die Hard 2
-- Day of the Tentacle
 - Ico
 - Prince of persia: sands of time
 - SOMA
@@ -91,7 +90,6 @@ The Steam library hover effect comes from https://codepen.io/ArranGravestock/pen
 - Deus Ex
 - Driver
 - Shovel Knight
-- Crypt of the necrodancer
 - Don't Starve
 - Civilization 5
 - Rimworld
@@ -107,7 +105,6 @@ The Steam library hover effect comes from https://codepen.io/ArranGravestock/pen
 - Mavis Beacon teaches typing
 - Where in the world is Carmen Sandiego?
 - Tekken 3
-- Expedition 33: Clair Obscur
 - Anno 1800
 - Dead Space remake
 - XCOM 2
@@ -131,7 +128,6 @@ The Steam library hover effect comes from https://codepen.io/ArranGravestock/pen
 - The Case of the Golden Idol
 - Black Mirror (the original)
 - Stories Untold
-- Thinbleweed Park
 - Lucy Dreaming
 - The Longest Journey
 - Heaven's Vault
@@ -142,7 +138,6 @@ The Steam library hover effect comes from https://codepen.io/ArranGravestock/pen
 - The Stanley Parable
 - Superliminal
 - Control
-- Chants of Sennaar
 - What remains of Edith Finch
 - Paradise Killer
 - Another World
@@ -163,7 +158,6 @@ The Steam library hover effect comes from https://codepen.io/ArranGravestock/pen
 - The Bridge
 - The Swapper
 - No Time to Explain
-- Octodad (original)
 - Jazzpunk
 - Auditorium
 - Transistor
@@ -171,6 +165,5 @@ The Steam library hover effect comes from https://codepen.io/ArranGravestock/pen
 - Machinarium
 - Sweezy gunner
 - Finding Teddy
-- KAMI
 - rain
 - Gone home
