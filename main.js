@@ -211,6 +211,7 @@ const data = [
     "Braid",
     "A Short Hike",
     "Return of the Obra Dinn",
+    "Hidden Memories",
     "Chants of Sennaar",
 ];
 
