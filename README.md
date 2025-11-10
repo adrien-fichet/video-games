@@ -33,9 +33,12 @@ The Steam library hover effect comes from https://codepen.io/ArranGravestock/pen
 - Mass Effect trilogy
 - Rayman 1
 - Wind Waker
+- Tiny Rooms
+- Viewfinder
+- Fallout New Vegas
+- GTA 3 Vice City & San Andreas
 
 ## Games to play
-- Journey
 - Heavy Rain
 - Time Gentlemen, Please!
 - MGS
@@ -58,7 +61,6 @@ The Steam library hover effect comes from https://codepen.io/ArranGravestock/pen
 - Celeste
 - Ori 1 & 2
 - CoD MW2
-- HoMM 3
 - Sid Meier's Pirates!
 - Assassin's Creed: Black Flag
 - Phoenix Wright: Ace Attorney
@@ -84,7 +86,6 @@ The Steam library hover effect comes from https://codepen.io/ArranGravestock/pen
 - System Shock 2
 - Gran Turismo 4
 - Halo CE / 2 / 3
-- GTA 3 Vice City & San Andreas
 - Medievil 1 & 2
 - Dragon Quest 8
 - Deus Ex
@@ -104,7 +105,6 @@ The Steam library hover effect comes from https://codepen.io/ArranGravestock/pen
 - Le manoir de Mortevieille
 - Mavis Beacon teaches typing
 - Where in the world is Carmen Sandiego?
-- Tekken 3
 - Anno 1800
 - Dead Space remake
 - XCOM 2
@@ -130,7 +130,6 @@ The Steam library hover effect comes from https://codepen.io/ArranGravestock/pen
 - Stories Untold
 - Lucy Dreaming
 - The Longest Journey
-- Heaven's Vault
 - La-Mulana
 - Lorelei and the Laser Eyes
 - Gorogoa
@@ -167,3 +166,5 @@ The Steam library hover effect comes from https://codepen.io/ArranGravestock/pen
 - Finding Teddy
 - rain
 - Gone home
+- Noita
+- Florence

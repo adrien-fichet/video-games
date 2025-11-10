@@ -213,6 +213,7 @@ const data = [
     "Return of the Obra Dinn",
     "Hidden Memories",
     "Chants of Sennaar",
+    "Journey",
 ];
 
 const library = document.getElementById('library');
