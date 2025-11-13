@@ -214,6 +214,8 @@ const data = [
     "Hidden Memories",
     "Chants of Sennaar",
     "Journey",
+    "Florence",
+    "Sid Meier's Pirates!"
 ];
 
 const library = document.getElementById('library');
@@ -228,7 +230,8 @@ data.forEach(item => {
         .replaceAll('è', 'e')
         .replaceAll('é', 'e')
         .replaceAll(',', '')
-        .replaceAll('î', 'i');
+        .replaceAll('î', 'i')
+        .replaceAll('!', '');
     img.setAttribute('class', 'lazyload');
     img.setAttribute('data-sizes', 'auto');
     img.setAttribute('src', './thumbs/' + imgName + '.jpg');

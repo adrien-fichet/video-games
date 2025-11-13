@@ -33,7 +33,7 @@ The Steam library hover effect comes from https://codepen.io/ArranGravestock/pen
 - Mass Effect trilogy
 - Rayman 1
 - Wind Waker
-- Tiny Rooms
+- Tiny Room Stories
 - Viewfinder
 - Fallout New Vegas
 - GTA 3 Vice City & San Andreas
@@ -61,7 +61,6 @@ The Steam library hover effect comes from https://codepen.io/ArranGravestock/pen
 - Celeste
 - Ori 1 & 2
 - CoD MW2
-- Sid Meier's Pirates!
 - Assassin's Creed: Black Flag
 - Phoenix Wright: Ace Attorney
 - Beyond Good & Evil
@@ -167,4 +166,3 @@ The Steam library hover effect comes from https://codepen.io/ArranGravestock/pen
 - rain
 - Gone home
 - Noita
-- Florence
