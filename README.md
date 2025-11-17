@@ -11,9 +11,9 @@ The Steam library hover effect comes from https://codepen.io/ArranGravestock/pen
 - Spyro
 - Starcraft 1 & 2
 - Super Mario Sunshine
-- Super Mario bros 1 & 3
+- Super Mario bros 3
 - Super Mario world 1 & 2
-- Super Mario Land 1 & 3
+- Super Mario Land 2, 3
 - Starfox Adventures
 - Sonic 1
 - Silent Hill 1
@@ -33,7 +33,7 @@ The Steam library hover effect comes from https://codepen.io/ArranGravestock/pen
 - Mass Effect trilogy
 - Rayman 1
 - Wind Waker
-- Tiny Room Stories
+- Tiny Room Stories: Town Mystery
 - Viewfinder
 - Fallout New Vegas
 - GTA 3 Vice City & San Andreas
@@ -166,3 +166,4 @@ The Steam library hover effect comes from https://codepen.io/ArranGravestock/pen
 - rain
 - Gone home
 - Noita
+- Donkey Kong '94

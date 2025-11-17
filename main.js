@@ -215,7 +215,9 @@ const data = [
     "Chants of Sennaar",
     "Journey",
     "Florence",
-    "Sid Meier's Pirates!"
+    "Sid Meier's Pirates!",
+    "Super Mario Bros",
+    "Super Mario Land",
 ];
 
 const library = document.getElementById('library');
@@ -227,11 +229,10 @@ data.forEach(item => {
     const img = document.createElement('img');
     const imgName = item.toLowerCase()
         .replaceAll(/[ '\.]/g, '-')
+        .replaceAll(/[,!]/g, '')
         .replaceAll('è', 'e')
         .replaceAll('é', 'e')
-        .replaceAll(',', '')
-        .replaceAll('î', 'i')
-        .replaceAll('!', '');
+        .replaceAll('î', 'i');
     img.setAttribute('class', 'lazyload');
     img.setAttribute('data-sizes', 'auto');
     img.setAttribute('src', './thumbs/' + imgName + '.jpg');
