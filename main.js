@@ -218,6 +218,7 @@ const data = [
     "Sid Meier's Pirates!",
     "Super Mario Bros",
     "Super Mario Land",
+    "Samorost",
 ];
 
 const library = document.getElementById('library');
