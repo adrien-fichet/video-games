@@ -219,6 +219,9 @@ const data = [
     "Super Mario Bros",
     "Super Mario Land",
     "Samorost",
+    "Super Mario Bros 3",
+    "Super Mario Land 2",
+    "Starcraft",
 ];
 
 const library = document.getElementById('library');

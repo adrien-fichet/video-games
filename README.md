@@ -9,11 +9,10 @@ The Steam library hover effect comes from https://codepen.io/ArranGravestock/pen
 ## Games to finish
 - Fable
 - Spyro
-- Starcraft 1 & 2
+- Starcraft 2
 - Super Mario Sunshine
-- Super Mario bros 3
 - Super Mario world 1 & 2
-- Super Mario Land 2, 3
+- Super Mario Land 3
 - Starfox Adventures
 - Sonic 1
 - Silent Hill 1
