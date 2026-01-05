@@ -10,9 +10,10 @@ The Steam library hover effect comes from https://codepen.io/ArranGravestock/pen
 - Fable
 - Spyro
 - Starcraft 2
+- sc1 BW
 - Super Mario Sunshine
 - Super Mario world 1 & 2
-- Super Mario Land 3
+- Wario Land (Super Mario Land 3)
 - Starfox Adventures
 - Sonic 1
 - Silent Hill 1
@@ -25,7 +26,6 @@ The Steam library hover effect comes from https://codepen.io/ArranGravestock/pen
 - Sonic Adventure
 - Jak & Daxter precursor legacy
 - Disco Elysium
-- https://adamgryu.itch.io/spooky-house
 - Outer Wilds
 - Blue Prince
 - Baba is you
@@ -36,6 +36,7 @@ The Steam library hover effect comes from https://codepen.io/ArranGravestock/pen
 - Viewfinder
 - Fallout New Vegas
 - GTA 3 Vice City & San Andreas
+- War3 FT
 
 ## Games to play
 - Heavy Rain
@@ -166,3 +167,7 @@ The Steam library hover effect comes from https://codepen.io/ArranGravestock/pen
 - Gone home
 - Noita
 - Donkey Kong '94
+- Cocoon
+- Hades 2
+- Screeps
+- Gothic 1 & 2
