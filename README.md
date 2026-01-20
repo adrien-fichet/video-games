@@ -32,7 +32,6 @@ The Steam library hover effect comes from https://codepen.io/ArranGravestock/pen
 - Mass Effect trilogy
 - Rayman 1
 - Wind Waker
-- Tiny Room Stories: Town Mystery
 - Viewfinder
 - Fallout New Vegas
 - GTA 3 Vice City & San Andreas

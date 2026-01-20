@@ -222,6 +222,8 @@ const data = [
     "Super Mario Bros 3",
     "Super Mario Land 2",
     "Starcraft",
+    "Factorio Space Age",
+    "Kingdom Come Deliverance 2",
 ];
 
 const library = document.getElementById('library');
