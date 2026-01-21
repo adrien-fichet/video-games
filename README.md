@@ -170,3 +170,4 @@ The Steam library hover effect comes from https://codepen.io/ArranGravestock/pen
 - Hades 2
 - Screeps
 - Gothic 1 & 2
+- Inscryption
