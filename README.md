@@ -171,3 +171,5 @@ The Steam library hover effect comes from https://codepen.io/ArranGravestock/pen
 - Screeps
 - Gothic 1 & 2
 - Inscryption
+- Riddle of the Sphinx: An Egyptian Adventure
+- Abiotic Factory
