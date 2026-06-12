@@ -7,7 +7,7 @@ Most images are downloaded from [steamgriddb.com](https://www.steamgriddb.com/)
 The Steam library hover effect comes from https://codepen.io/ArranGravestock/pen/VwPwjoR
 
 ## Games to finish
-- Fable
+- Fable: the Lost Chapters
 - Spyro
 - Starcraft 2
 - sc1 BW
@@ -173,3 +173,4 @@ The Steam library hover effect comes from https://codepen.io/ArranGravestock/pen
 - Inscryption
 - Riddle of the Sphinx: An Egyptian Adventure
 - Abiotic Factory
+- Dark Messiah of Might and Magic

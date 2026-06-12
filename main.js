@@ -219,6 +219,7 @@ const data = [
     "Super Mario Bros",
     "Super Mario Land",
     "Samorost",
+    "Tiny Room Stories Town Mystery",
     "Super Mario Bros 3",
     "Super Mario Land 2",
     "Starcraft",
@@ -227,6 +228,8 @@ const data = [
     // 2026
     "Kingdom Come Deliverance 2",
     "Planet of Lana 2",
+    "Adorable Adventures",
+    "Nox",
 ];
 
 const library = document.getElementById('library');
