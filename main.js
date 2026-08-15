@@ -230,6 +230,7 @@ const data = [
     "Planet of Lana 2",
     "Adorable Adventures",
     "Nox",
+    "The Incident at Galley House",
 ];
 
 const library = document.getElementById('library');
