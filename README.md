@@ -72,7 +72,6 @@ The Steam library hover effect comes from https://codepen.io/ArranGravestock/pen
 - Luigi's Mansion
 - Earthbound
 - Undertale
-- Ocarina of time
 - Time crisis 2
 - Die Hard 2
 - Ico
@@ -167,7 +166,6 @@ The Steam library hover effect comes from https://codepen.io/ArranGravestock/pen
 - Noita
 - Donkey Kong '94
 - Cocoon
-- Hades 2
 - Screeps
 - Gothic 1 & 2
 - Inscryption

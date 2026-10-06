@@ -231,6 +231,8 @@ const data = [
     "Adorable Adventures",
     "Nox",
     "The Incident at Galley House",
+    "Hades 2",
+    "Ocarina of Time",
 ];
 
 const library = document.getElementById('library');
