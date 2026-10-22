@@ -234,6 +234,7 @@ const data = [
     "Hades 2",
     "Ocarina of Time",
     "Woodo",
+    "Big Hops",
 ];
 
 const library = document.getElementById('library');
