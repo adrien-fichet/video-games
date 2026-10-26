@@ -165,10 +165,9 @@ The Steam library hover effect comes from https://codepen.io/ArranGravestock/pen
 - Gone home
 - Noita
 - Donkey Kong '94
-- Cocoon
 - Screeps
 - Gothic 1 & 2
 - Inscryption
 - Riddle of the Sphinx: An Egyptian Adventure
-- Abiotic Factory
+- Abiotic Factor
 - Dark Messiah of Might and Magic

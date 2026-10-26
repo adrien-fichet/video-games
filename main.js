@@ -235,6 +235,7 @@ const data = [
     "Ocarina of Time",
     "Woodo",
     "Big Hops",
+    "Cocoon",
 ];
 
 const library = document.getElementById('library');
