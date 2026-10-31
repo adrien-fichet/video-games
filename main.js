@@ -236,6 +236,7 @@ const data = [
     "Woodo",
     "Big Hops",
     "Cocoon",
+    "Order of the Sinking Star",
 ];
 
 const library = document.getElementById('library');
