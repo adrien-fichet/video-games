@@ -171,3 +171,4 @@ The Steam library hover effect comes from https://codepen.io/ArranGravestock/pen
 - Riddle of the Sphinx: An Egyptian Adventure
 - Abiotic Factor
 - Dark Messiah of Might and Magic
+- Legend of Grimrock

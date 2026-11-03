@@ -237,6 +237,7 @@ const data = [
     "Big Hops",
     "Cocoon",
     "Order of the Sinking Star",
+    "Queen's Domain",
 ];
 
 const library = document.getElementById('library');
